@@ -2,5 +2,6 @@
 
 int main(void)
 {
+	abc();
 	return 0;
 }
