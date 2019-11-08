@@ -1,0 +1,27 @@
+body 
+{
+	text-align: center;
+/*	
+	justify-content: center;
+	flex-direction: column;
+	*/
+	background-color: #000000;
+}
+/*
+#id
+{
+	position: absolute;
+	top: 50%;
+}
+*/
+p
+{
+	color: #008080;
+}
+
+#rub, #dollar
+{
+	background: #000000;
+	border: 1px solid #008080;
+	color: #008080;
+}
